@@ -66,7 +66,7 @@ Got the name and ID url to work
 
 Part 4
 14:02
-Adding data model class by updating Models/Movie.cs
+Adding data model class by updating Models/Pen.cs
 
 14:10
 I created new scaffold in controller(rightclick Add>new scaffold item)
@@ -229,3 +229,13 @@ Updated background image as the background image was not apt for displaying the 
 Privacy page in views\home is updated
 
 validated that webpage is working as expected :) :)
+
+14:22
+Testing Github Repository link
+https://github.com/Balu006m/Pen.git
+
+Development Github Repository Link
+https://github.com/Srujana789/Pen
+
+Production Github Repository link
+https://github.com/MVStud/Orion
