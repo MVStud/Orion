@@ -75,7 +75,62 @@ public static class SeedData
                     Color = "Black",
                     Material = "Wood",
                     Retractable = "Yes",
-                    Price = 400
+                    Price = 200
+                },
+                new Products
+                {
+                    Name = "Montec Blanc",
+                    InkType = "Ink",
+                    Year = DateTime.Parse("1989-5-08"),
+
+                    Color = "Blue",
+                    Material = "Stainless Steel",
+                    Retractable = "No",
+                    Price = 438
+                },
+                new Products
+                {
+                    Name = "Glider",
+                    InkType = "Gel",
+                    Year = DateTime.Parse("2012-5-20"),
+
+                    Color = "Red",
+                    Material = "Plastic",
+                    Retractable = "Yes",
+                    Price = 755
+                },
+                new Products
+                {
+                    Name = "Reynolds",
+                    InkType = "Water",
+                    Year = DateTime.Parse("2015-6-12"),
+
+                    Color = "Blue",
+                    Material = "Plastic",
+                    Retractable = "Yes",
+                    Price = 655
+                },
+                new Products
+                {
+                    Name = "Butterflow",
+                    InkType = "Gel",
+                    Year = DateTime.Parse("2017-3-20"),
+
+                    Color = "Blue",
+                    Material = "Recycled Paper",
+                    Retractable = "No",
+                    Price = 466
+                },
+                new Products
+                {
+                    Name = "Montex",
+                    InkType = "Water",
+                    Year = DateTime.Parse("2020-5-14"),
+
+                    Color = "Orange",
+                    Material = "Silicon",
+                    Retractable = "Yes",
+                    Price = 800
                 }
             );
             context.SaveChanges();
