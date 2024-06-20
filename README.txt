@@ -221,3 +221,11 @@ All commands executed successfully.
 
 2255
 Updated background image as the background image was not apt for displaying the contents in the webpage.
+
+
+2024-06-20
+
+1130
+Privacy page in views\home is updated
+
+validated that webpage is working as expected :) :)
